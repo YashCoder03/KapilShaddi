@@ -5,7 +5,8 @@
 			"date": "Thursday, 15th May 2025",
 			"time": "10am to 12 pm",
 			"location": "Akulkhede",
-			"address": "Sobhagya Lawns"
+			"address": "Sobhagya Lawns",
+			"maplink" : "https://maps.app.goo.gl/846vEwkQvMKr5FGD8"
 
 		},
 		{
@@ -13,7 +14,8 @@
 			"date": "Friday, 16th May 2025",
 			"time": "12PM",
 			"location": "Deshmukh Nagar, Chopda",	
-			"address": "Deshmukh Nagar, Chopda"
+			"address": "Deshmukh Nagar, Chopda",
+			"maplink" : "https://maps.app.goo.gl/FHCE3a42wsgaSjki9"
 		}
 	]
 }

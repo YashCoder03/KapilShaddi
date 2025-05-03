@@ -10,7 +10,7 @@
         <iframe 
           data-aos="zoom-in"
           class="w-10/12 mx-auto mt-4 mb-8" height="300" 
-          src="https://maps.google.com/maps?q=Politeknik%20Hasnur&t=&z=13&ie=UTF8&iwloc=&output=embed" 
+          src="https://maps.app.goo.gl/zVcvZmriSiR2us288" 
           frameborder="0" scrolling="no" 
           marginheight="0" marginwidth="0"></iframe>
         <a 
