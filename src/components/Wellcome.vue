@@ -44,14 +44,12 @@
       <div class="mt-5 animate__animated animate__zoomInUp">
         <p>{{ weddingDate }}</p>
         <h1 class="satisfy-font text-5xl lg:text-6xl my-4 text-green-600">{{ couples.join(' & ') }}</h1>
-        <p>Semoga menjadi pasangan yang dipertemukan oleh takdir hingga maut yang memisahkan</p>
        <!-- CTA -->
         <button 
           type="buton" 
           @click="openInvitation"
           class="w-10/12 md:w-8/12 text-sm md-text-lg mt-12 font-medium z-50 border border-blue-500 text-blue-500 bg-light p-2 rounded-full pointer active:scale-90 hover:bg-blue-500 hover:text-gray-100 duration-300">
           <i class="fa-solid fa-book-open mr-1"></i>
-          Buka undangan
        </button>
        <!-- CTA -->
       </div>
@@ -68,7 +66,6 @@ import { useState } from '@/stores/state.js'
 const state = useState()
 
 const couples = ref(['Kapil', 'Tejal'])
-const weddingDate = ref('Ahad, 27 Mei 2022')
 
 const isOpenInvitation = ref(false)
 
