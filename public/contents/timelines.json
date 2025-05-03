@@ -1,0 +1,19 @@
+{
+	"timelines": [
+		{
+			"title": "Haldi",
+			"date": "Thursday, 15th May 2025",
+			"time": "10am to 12 pm",
+			"location": "Akulkhede",
+			"address": "Sobhagya Lawns"
+
+		},
+		{
+			"title": "Wedding",
+			"date": "Friday, 16th May 2025",
+			"time": "12PM",
+			"location": "Deshmukh Nagar, Chopda",	
+			"address": "Deshmukh Nagar, Chopda"
+		}
+	]
+}

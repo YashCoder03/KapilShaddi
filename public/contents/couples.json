@@ -1,0 +1,20 @@
+{
+	"couples": [
+		{
+			"name": "Kapil Chaudhari",
+			"sosmed": [
+			],
+			"parents": ["Manoj Chaudhari", "Laxmi Chaudhari"],
+			"thumb": "/couples/couple-male.jpg",
+			"address": ""
+		},
+		{
+			"name": "Tejal Chaudhari",
+			"sosmed": [
+			],
+			"parents": ["Suresh Chaudhari", "Vaishali Chaudhari"],
+			"thumb": "/couples/couple-female.jpg",
+			"address": ""
+		}
+	]
+}
