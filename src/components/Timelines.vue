@@ -27,7 +27,7 @@
             <Countdown></Countdown>
             <div class="px-6 pt-5 pb-8 text-center">
             </div>
-            <img src="@/assets/images/couples.png" alt="">
+            <img src="@/assets/images/couples1.jpeg" alt="">
           </section>
         </template>
       </Card>
